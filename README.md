@@ -27,3 +27,12 @@ The 8 team tournament featured a Swiss Stage that ultimately eliminated 4 teams 
 So, how did the Sentinels win this tournament? While VALORANT is a complex game, statistics of players are one thing, but strats and the synergy of a team is another as well. We won't be able to take a look at the latter, only the former, with this dataset. Let's take a look at the data to see if there are any anomalies looking at the stats of each players, while also data cleaning and using visualizations to see.
 
 # Glossary
+
+# Sentinels Roster Notes
+- TenZ was the longest tenured member for the team, joining as early as [March 2021](https://liquipedia.net/valorant/TenZ).
+- Zekken has been with Sentinels since signing in [October 2022](https://liquipedia.net/valorant/Zekken).
+- Sacy also has been with Sentinels since signing in [October 2022](https://liquipedia.net/valorant/Sacy). That was also the offseason after Sacy won [VALORANT Champions Istanbul](https://liquipedia.net/valorant/VCT/2022/Champions) with the other Americas team, originating from Brazil, LOUD.
+- Zellsis was signed as a substitute and eventually became a starter for the team by the start of the [2024 season](https://liquipedia.net/valorant/Zellsis).
+- johnqt was the most recent signing for Sentinels, joining [September 2023](https://liquipedia.net/valorant/Johnqt) after playing in Challengers (VALORANT's Tier 2 circuit).
+
+# Sources
