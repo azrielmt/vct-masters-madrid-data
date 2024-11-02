@@ -23,3 +23,7 @@ China:
 The 8 team tournament featured a Swiss Stage that ultimately eliminated 4 teams and then a Playoff Stage featuring **Gen.G, Paper Rex, Sentinels and LOUD**. Ultimately, Sentinels, representatives from the Americas league, win the tournament that also featured a prize pool of $500,000.
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpiks.eldesmarque.com%2Fthumbs%2F660%2Fbin%2F2024%2F03%2F25%2F53608027207_56471550ec_c.jpg&f=1&nofb=1&ipt=646fb03fb78eb04bba9bafcf2452c1fbe2772085e24af36c80413f9118e496e6&ipo=images" width="500" />
+
+So, how did the Sentinels win this tournament? While VALORANT is a complex game, statistics of players are one thing, but strats and the synergy of a team is another as well. We won't be able to take a look at the latter, only the former, with this dataset. Let's take a look at the data to see if there are any anomalies looking at the stats of each players, while also data cleaning and using visualizations to see.
+
+# Glossary
