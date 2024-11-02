@@ -28,6 +28,10 @@ So, how did the Sentinels win this tournament? While VALORANT is a complex game,
 
 # Glossary
 
+# Process
+
+# Conclusion
+
 # Sentinels Roster Notes
 - TenZ was the longest tenured member for the team, joining as early as [March 2021](https://liquipedia.net/valorant/TenZ).
 - Zekken has been with Sentinels since signing in [October 2022](https://liquipedia.net/valorant/Zekken).
@@ -36,3 +40,8 @@ So, how did the Sentinels win this tournament? While VALORANT is a complex game,
 - johnqt was the most recent signing for Sentinels, joining [September 2023](https://liquipedia.net/valorant/Johnqt) after playing in Challengers (VALORANT's Tier 2 circuit).
 
 # Sources
+https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madrid-valorant-champions-2024
+https://liquipedia.net/valorant/VCT/2024/Stage_1/Masters
+https://liquipedia.net/valorant/Sentinels
+https://twitter.com/Sentinels/status/1702026990575042966
+https://twitter.com/Sentinels/status/1702382232466497796
