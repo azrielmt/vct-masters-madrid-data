@@ -41,6 +41,7 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 # Process
 - Reviewed the data sets while trying to figure out what questions to answer.
 - Cleaned the 'Player Statistics' dataset by clearing out any player duplicates and removing irrelevant columns.
+- Sort out the DataFrame in order by "Kills".
 - TBD
 
 # Conclusion
