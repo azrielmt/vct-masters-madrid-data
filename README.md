@@ -46,13 +46,6 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 
 # Conclusion
 
-# Sentinels Roster Notes
-- TenZ was the longest tenured member for the team, joining as early as [March 2021](https://liquipedia.net/valorant/TenZ).
-- Zekken has been with Sentinels since signing in [October 2022](https://liquipedia.net/valorant/Zekken).
-- Sacy also has been with Sentinels since signing in [October 2022](https://liquipedia.net/valorant/Sacy). That was also the offseason after Sacy won [VALORANT Champions Istanbul](https://liquipedia.net/valorant/VCT/2022/Champions) with the other Americas team, originating from Brazil, LOUD.
-- Zellsis was signed as a substitute and eventually became a starter for the team by the start of the [2024 season](https://liquipedia.net/valorant/Zellsis).
-- johnqt was the most recent signing for Sentinels, joining [September 2023](https://liquipedia.net/valorant/Johnqt) after playing in Challengers (VALORANT's Tier 2 circuit).
-
 # Sources
 - https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madrid-valorant-champions-2024
 - https://liquipedia.net/valorant/VCT/2024/Stage_1/Masters
