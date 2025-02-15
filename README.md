@@ -42,7 +42,8 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 - Reviewed the data sets while trying to figure out what questions to answer.
 - Cleaned the 'Player Statistics' dataset by clearing out any player duplicates and removing irrelevant columns.
 - Sort out the DataFrame in order by "Kills".
-- TBD
+- Created a bar chart showing the amount of "Kills" per player.
+- Reduced a dataframe to show only a player's "Kills", "Deaths" and "Assists".
 
 # Conclusion
 
