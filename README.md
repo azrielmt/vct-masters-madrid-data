@@ -43,7 +43,10 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 - Cleaned the 'Player Statistics' dataset by clearing out any player duplicates and removing irrelevant columns.
 - Sort out the DataFrame in order by "Kills".
 - Created a bar chart showing the amount of "Kills" per player.
-- Reduced a dataframe to show only a player's "Kills", "Deaths" and "Assists".
+- Reduced a dataframe to show a player's "Kills" and "Deaths".
+- Combined the columns of the player and their team into one column.
+- Made a bar chart comparing every player's "Kills" and "Deaths".
+- Made a new bar chart after reducing the dataframe to Master Madrids' Playoff teams only.
 
 # Conclusion
 
