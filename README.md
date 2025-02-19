@@ -47,6 +47,7 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 - Combined the columns of the player and their team into one column.
 - Made a bar chart comparing every player's "Kills" and "Deaths".
 - Made a new bar chart after reducing the dataframe to Master Madrids' Playoff teams only.
+- TBD
 
 # Conclusion
 
