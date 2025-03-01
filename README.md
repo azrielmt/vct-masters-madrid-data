@@ -47,7 +47,15 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 - Combined the columns of the player and their team into one column.
 - Made a bar chart comparing every player's "Kills" and "Deaths".
 - Made a new bar chart after reducing the dataframe to Master Madrids' Playoff teams only.
-- TBD
+- Found the amount of players in the playoffs only who had a positive K/D ratio.
+
+Later:
+- Found those who did not have a positive K/D in playoffs.
+- Reduce DF to teams only to compare within each team in playoffs. (potentially 4 different DFs)
+- Save visuals. 
+- Simple pie charts for maps played. 
+- Combine maps played and banned for a complete DF.
+- More pie charts / other charts?
 
 # Conclusion
 
