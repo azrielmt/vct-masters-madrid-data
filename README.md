@@ -50,13 +50,14 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 - Found the amount of players in the playoffs only who had a positive K/D ratio.
 - Found the amount of players in the playoffs only who had a negative K/D ratio.
 - Merged datasets for Maps to create a larger dataframe.
+- Save all visuals and put them into a folder.
 
 
 Later:
-- Save visuals. 
-- Simple pie charts for maps played. 
-- Combine maps played and banned for a complete DF.
-- More pie charts / other charts?
+- Simple pie charts for maps played. (almost complete)
+- Potential line graph.
+- Add comments to everything.
+- Update Readme to add visuals.
 
 # Conclusion
 - Zekken had the most kills out of everyone at Masters Madrid, totaling 381 kills and was a major factor to Sentintels going far and winning the tournament.
