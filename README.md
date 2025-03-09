@@ -50,15 +50,27 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 - Found the amount of players in the playoffs only who had a positive K/D ratio.
 
 Later:
-- Found those who did not have a positive K/D in playoffs.
-- Reduce DF to teams only to compare within each team in playoffs. (potentially 4 different DFs)
 - Save visuals. 
 - Simple pie charts for maps played. 
 - Combine maps played and banned for a complete DF.
 - More pie charts / other charts?
 
 # Conclusion
+- Zekken had the most kills out of everyone at Masters Madrid, totaling 381 kills and was a major factor to Sentintels going far and winning the tournament.
+- Out of the 20 players in the playoffs, 13 players had a postive K/D ratio, 65%. Out of both Grand Final teams, Sentinels had two players (Zellsis and Sacy) with a negative K/D ratio and Gen.G had only one (Lakia). 
+- While Zellsis and Sacy had negative K/D ratios, the total Kill count still had Zekken with the most amount of kills, with TenZ and johnqt right after. This definitely is a factor as to why Sentinels won this tournament in the end. However, there is a thought that these counts could also be decided with the fact that Sentinels may have played more rounds and that they were coming out of the lower end of the bracket. This may also be the case with Paper Rex, as they faced Sentinels in the Lower Final.
+- In order, TenZ had the most amount of assists in this tournament, with 226 assists with Zellsis (172) and Sacy (169) following, which shows how the importance of the players despite Zellsis and Sacy's negative K/D ratio. TenZ also led the "A/Map" statistic, which factors into why he has the most assists out of everyone.
+- 
+
+# Drawbacks and Questions
+While this is a helpful dataset that shows meaningful statistics, there are still a lot more questions that can be made. While statistics can be one thing, VALORANT also requires a lot of other factors to a team's success. 
+- There was not enough information to draw conclusions on maps, such as what teams played on what maps, what maps they banned and what maps they lost on the most. While this information can be gathered elsewhere, the purpose of this project is to find out conclusions using this dataset alone.
+- There was not enough information on use of Agents, such as what agents players used the most, agents used the least, agents used the most and least on certain maps and potential head to head comparisons on specific players using the same agent on a certain map or game. In VALORANT, certain agents can perform will on certain maps while some cannot. It also can be a factor of the current meta (state of the game in terms of who is a high tier agent to use versus a low tier agent.)
+- Numbers can be skewed toward the Grand Final teams as they played the most in this tournament compared to a team who were knocked out during the Swiss stage. 
+- As mentioned before, VALORANT has a lot more factors than just KDA and ACS. A team's performance also weighs on coaching, pure experience on the international stage, team cohesiveness, time and preparation and many more factors. 
 
 # Sources
 - https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madrid-valorant-champions-2024
 - https://liquipedia.net/valorant/VCT/2024/Stage_1/Masters
+- https://tracker.gg/valorant/articles/what-is-acs-in-valorant-and-how-does-it-work
+
