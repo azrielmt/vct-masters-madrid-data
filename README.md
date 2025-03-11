@@ -68,7 +68,9 @@ Later:
 - Speaking of N4RRATE from Karmine Corp, he was very impactful as he led best KDA as well, with two LOUD players behind him, being Tuyz and Less. This is purely statistic and does not factor in everything else. 
 - Zekken and MiniBoo with the best "K/Map" statistic with N4RRATE right behind both, which shows they were able to rack up as many kills for their respective teams in the times they were playing. 
 - Autumn from FunPlus Phoenix unfortunately led "D/Map", which meant he was killed more than anyone else in the tournament during a map.
-Maps next...
+- **Sunset** and **Split** seems to be the the most popular maps played throughout the entire event, picked at 17%. **Split** was also the most popular map played during the playoffs only.
+- **Ascent** and **Breeze** were the most banned maps of the tournament, banned 17% of the time.
+- Taking a look at the **Attack Win Percentage** and the **Defense Win Percentage**, you can tell what maps are more attack based or defense based. **Breeze, Icebox, Lotus and Sunset** were more won on the Attack side, which means **Bind and Split** were more won on the Defense side. **Ascent** was the only map that resulted in a 50/50 split, meaning a match could have gone either way on that map.
 
 
 # Drawbacks and Questions
