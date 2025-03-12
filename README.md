@@ -59,6 +59,10 @@ Later:
 - Add comments to everything.
 - Update Readme to add visuals.
 
+# Power BI Visual
+*still in progress*
+The Power BI dashboard shows important stats such as "Kills" and focuses on both Grand Final teams. Screenshot below:
+
 # Conclusion
 - Zekken had the most kills out of everyone at Masters Madrid, totaling 381 kills and was a major factor to Sentintels going far and winning the tournament.
 - Out of the 20 players in the playoffs, 13 players had a postive K/D ratio, 65%. Out of both Grand Final teams, Sentinels had two players (Zellsis and Sacy) with a negative K/D ratio and Gen.G had only one (Lakia). 
