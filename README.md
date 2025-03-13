@@ -1,4 +1,4 @@
-<img src="https://liquipedia.net/commons/images/9/9d/VCT_Masters_Madrid_allmode.png" width="350" />
+<img src="https://liquipedia.net/commons/images/9/9d/VCT_Masters_Madrid_allmode.png" width="250" />
 
 ### VALORANT Masters Madrid is the first international tournament of the 2024 VALORANT Champions Tour Schedule. A total of 8 teams qualified, 2 from each of the four international leagues, being Americas, EMEA, Pacific and China qualified from the season's [Kickoff](https://liquipedia.net/valorant/VCT/2024) tournaments. 
 
@@ -86,3 +86,10 @@ While this is a helpful dataset that shows meaningful statistics, there are stil
 - https://liquipedia.net/valorant/VCT/2024/Stage_1/Masters
 - https://tracker.gg/valorant/articles/what-is-acs-in-valorant-and-how-does-it-work
 
+# Skills Used
+- Data Cleaning
+- Python
+- Juypter Notebooks
+- Power BI
+- Matplotlib
+- Version Control of Github
