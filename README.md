@@ -54,14 +54,11 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 
 
 Later:
-- Simple pie charts for maps played. (almost complete)
-- Potential line graph.
 - Add comments to everything.
 - Update Readme to add visuals.
 
 # Power BI Visual
-*still in progress*
-The Power BI dashboard shows important stats such as "Kills" and focuses on both Grand Final teams. Screenshot below:
+The Power BI dashboard shows a rundown of the most important stats from the Playoffs of VALORANT Masters Madrid. Download to interact with it as it does change upon clicking on a player or team. ![PowerBI](/visuals/powerbivisual.png)
 
 # Conclusion
 - Zekken had the most kills out of everyone at Masters Madrid, totaling 381 kills and was a major factor to Sentintels going far and winning the tournament.
