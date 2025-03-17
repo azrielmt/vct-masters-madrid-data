@@ -52,7 +52,6 @@ From the [Kaggle](https://www.kaggle.com/datasets/rakeshkudmulwar7/masters-madri
 - Merged datasets for Maps to create a larger dataframe.
 - Save all visuals and put them into a folder.
 
-
 Later:
 - Add comments to everything.
 - Update Readme to add visuals.
